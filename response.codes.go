@@ -1,4 +1,4 @@
-package codes
+package responsecodes
 
 // A special type to prevent the use of invalid codes, 
 // for functions that require a code, name the type this way
